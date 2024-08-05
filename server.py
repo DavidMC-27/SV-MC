@@ -1,4 +1,4 @@
-# Versiones disponibles
+# Ver1iones disponibles
 # forge, mohist, fabric, vanilla, paper
 
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
